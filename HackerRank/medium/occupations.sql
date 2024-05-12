@@ -1,4 +1,4 @@
--- This one is for practicing
+-- This one is for practicing pivot tables using CASE/END and WHEN/THEN in MySQL
 SELECT 
     product_name,
     SUM(
@@ -21,7 +21,7 @@ SELECT
             WHEN store_location = "West" THEN nums_sale ELSE 0
         END
     ) AS "west"
-FROM occupations
+FROM products
 GROUP BY product_name ORDER BY product_name;
 
 

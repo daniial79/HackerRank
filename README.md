@@ -1,2 +1,2 @@
 # SQL-Problems
-solutions to LeetCode and HackerRank SQL problems
+solutions to HackerRank SQL problems
