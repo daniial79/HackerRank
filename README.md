@@ -1,2 +1,2 @@
-# SQL-Problems
-solutions to HackerRank SQL problems
+# HackerRank
+solutions to HackerRank problems
